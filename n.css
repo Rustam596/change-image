@@ -1,0 +1,146 @@
+.box {
+    background-color: #002547;
+    padding-top: 50px;
+    width: 1202px;
+    margin: 0 auto;
+  }
+  nav {
+    width: 700px;
+    margin: 0 auto;
+  }
+  
+  a {
+    text-decoration: none;
+    margin-left: 50px;
+    /* padding-left: 30px; */
+    color: #ffffff;
+  }
+  h1 {
+    display: flex;
+  }
+  .try {
+    border: solid #002547;
+    width: 147px;
+    height: 53px;
+    color: blue;
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 7px;
+  }
+  #Base {
+    margin-left: 12px;
+  }
+  span {
+    color: #1d92ff;
+  }
+  .real {
+    color: #1d92ff;
+  }
+  .href {
+    color: #1d92ff;
+  }
+  h2 {
+    color: #fff;
+  }
+  /* #2{
+      margin-left: 234px;
+      co
+  } */
+  p {
+    color: #fff;
+  }
+  .for {
+    border: solid;
+    background-color: #fff;
+    color: #1d92ff;
+  }
+  .free {
+    border: solid;
+    background-color: #002547;
+    color: #fff;
+  }
+  .auto {
+    width: 1202px;
+    display: flex;
+    margin: 0 auto;
+    /* text-align: center;        */
+  }
+  .rasm > img {
+    width: 300px;
+    /* margin-left: 500px; */
+    /* margin-bottom: 3000px; */
+  }
+  .rasm2 {
+    margin-bottom: px;
+    width: 688, 4px;
+    height: 688, 4px;
+  }
+  
+  .box2 {
+    margin: 0 auto;
+    background-color: #fff;
+    padding-top: 50px;
+    width: 1202px;
+    margin: 0 auto;
+  }
+  .text {
+    padding-left: 60px;
+  }
+  h1 {
+    padding-left: 60px;
+    padding-bottom: 130px;
+  }
+  .zzz {
+    color: #1d92ff;
+  }
+  
+  .two {
+    color: black;
+  }
+  .theme {
+    display: flex;
+  }
+
+
+  .oxrgi{
+      margin: 0 auto;
+     width: 1250px; 
+     height: 219px;
+     background-color: #002547;
+     border-radius: 17px;
+   
+  }
+  .final2{
+      color: #fff;
+      width: 10px;
+      margin-left: 70px;
+
+  }
+  u{
+      color: #fff;
+      margin-left: 70px;
+  }
+  input{
+      border-radius: 7px;
+  }
+  .rus{
+     height: 30px;
+      margin-left: 750px;
+      position: relative;                             
+      padding-bottom: 70px;
+  }
+  .tam{
+      height: 25px;
+     
+     
+  }
+  .flex{
+      display: flex;
+  }
+  .ru{
+      margin:0 auto;
+      width: 120px;
+      background-color: black;
+      
+      }
+  
